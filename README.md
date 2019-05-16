@@ -21,6 +21,11 @@ This Code is written in Turbo c++
 
 ![image2](https://user-images.githubusercontent.com/48055152/57830332-6b153b80-77cf-11e9-8e4c-46812817d743.png)
 
+![image3](https://user-images.githubusercontent.com/48055152/57830428-b92a3f00-77cf-11e9-8939-296caa48a4ba.png)
+
+![image4](https://user-images.githubusercontent.com/48055152/57830426-b891a880-77cf-11e9-8bc8-36dc43621e0c.png)
+
+![image5](https://user-images.githubusercontent.com/48055152/57830427-b92a3f00-77cf-11e9-972d-e7f9e878e6a6.png)
 
 
 ### This code is created by Mehul Patni 

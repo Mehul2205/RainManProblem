@@ -19,6 +19,8 @@ This Code is written in Turbo c++
 
 ## ScreenShots of the Code
 
+![image2](https://user-images.githubusercontent.com/48055152/57830332-6b153b80-77cf-11e9-8e4c-46812817d743.png)
+
 
 
 ### This code is created by Mehul Patni 
